@@ -195,3 +195,10 @@ void loop() {
 
 <h3>Hasil</h3>
 
+https://github.com/naufalzakky/JobSheet1/blob/main/Pwm2.mp4
+
+https://github.com/naufalzakky/JobSheet1/blob/main/2led_sCEXXukX.mp4
+
+https://github.com/naufalzakky/JobSheet1/blob/main/20221117-115159_gTFsAO4o.mp4
+
+https://github.com/naufalzakky/JobSheet1/blob/main/100ms.mp4
